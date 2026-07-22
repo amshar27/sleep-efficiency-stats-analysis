@@ -1,5 +1,9 @@
 # Sleep Efficiency Statistical Analysis
 
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?logo=rstudioide&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-Correlation_·_t--test-4B8BBE)
+
 A statistical analysis project examining the relationship between caffeine consumption and sleep efficiency, written in **R**.
 
 ## Contents
